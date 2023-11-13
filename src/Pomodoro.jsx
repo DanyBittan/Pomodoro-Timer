@@ -23,8 +23,8 @@ export default function Pomodoro() {
   return (
     <>
       <div className="bold text-3xl text-gray-200 bg-gray-950 min-h-screen flex flex-col justify-center items-center font-start2">
-        <h1 className="mb-8 text-4xl">Pomodoro Timer</h1>
-        <h2 className="text-lg mb-6">Max time of 60 minutes</h2>
+        <h1 className="mb-8 text-4xl text-center">Pomodoro Timer</h1>
+        <h2 className="text-lg mb-6 text-center">Max time of 60 minutes</h2>
         <div className="flex flex-col">
           <section className="w-auto flex justify-between mb-4">
             <div>
